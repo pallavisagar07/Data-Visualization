@@ -8,19 +8,21 @@ This project contains easy-level questions that helped me understand how to crea
 
 What I Practiced
 
-Creating a basic bar graph
-Adding a title to the graph
-Adding labels to the x-axis and y-axis
-Changing bar colors
-Displaying values on top of bars
-Creating horizontal bar graphs
-Creating grouped bar graphs
-Using grids
-Saving graphs as image files
+.Creating a basic bar graph
+.Adding a title to the graph
+.Adding labels to the x-axis and y-axis
+.Changing bar colors
+.Displaying values on top of bars
+.Creating horizontal bar graphs
+.Creating grouped bar graphs
+.Using grids
+.Saving graphs as image files
+
 Technologies Used
 
-Python
-Matplotlib
+.Python
+.Matplotlib
+
 Why I Made This Project
 
 I made this project to strengthen my Python data visualization skills. It helped me understand how bar graphs work and how to present data in a simple and clear way.
